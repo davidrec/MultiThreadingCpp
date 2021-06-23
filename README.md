@@ -9,5 +9,12 @@ Simply creating a new thread object and passing the executing code to be called 
 - A function object
 - A lambda expression
 
+
+
+![Screenshot](scrrenshot.JPG)
+
+
+
+
 Based on geeksforgeeks [article](https://www.geeksforgeeks.org/multithreading-in-cpp/)
 
